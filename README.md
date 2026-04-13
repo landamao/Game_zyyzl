@@ -1,8 +1,16 @@
+<div align="center">
+
 # ⚡ 自由意志雷 · 天命轮盘 ⚡
+
+![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![类型](https://img.shields.io/badge/类型-哲学踩雷-blue.svg)
+![Version](https://img.shields.io/badge/version-201-brightgreen.svg)
 
 > *“你诵出的每一个数字，都在书写自己的劫数；而天道，只是静静聆听。”*
 
-![Python](https://img.shields.io/badge/Python-3.6+-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Game](https://img.shields.io/badge/Genre-Philosophical%20Roulette-orange.svg)
+> **版本**：201 (2.0.1) &nbsp;|&nbsp; **作者**：landamao &nbsp;|&nbsp; **邮箱**：landamao@yeah.net &nbsp;|&nbsp; **许可证**：MIT
+</div>
 
 ---
 
