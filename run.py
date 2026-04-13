@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+__version__ = "201"
+__author__ = "landamao"
+__email__ = "landamao@yeah.net"
+__license__ = "MIT"
+
 import time
 import random
 import sys  # 新增，用于控制光标
