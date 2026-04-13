@@ -70,8 +70,8 @@
 
 ### 快速开始
 ```bash
-# 下载或保存代码文件为 freedom_thunder.py
-python freedom_thunder.py
+# 下载或保存代码文件为 run.py
+python run.py
 ```
 
 ### 操作说明
